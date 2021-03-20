@@ -56,21 +56,21 @@ WordPress এ Filter Hook গুলি Action Hook গুলোর চেয়�
 
 ### Filter Functions:
 
-*has_filter()
-*add_filter()
-*apply_filters()
-*apply_filters_ref_array()
-*current_filter()
-*remove_filter()
-*remove_all_filters()
-*doing_filter()
+* has_filter()
+* add_filter()
+* apply_filters()
+* apply_filters_ref_array()
+* current_filter()
+* remove_filter()
+* remove_all_filters()
+* doing_filter()
 
 
 
 ### Activation/Deactivation/Uninstall Functions
 
-*register_activation_hook()
-*register_uninstall_hook()
-*register_deactivation_hook(
+* register_activation_hook()
+* register_uninstall_hook()
+* register_deactivation_hook()
 
 
