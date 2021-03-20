@@ -35,14 +35,14 @@ do_action( 'display_bangla_quotes' );
 
 ### Actions Functions
 
-*has_action()
-*add_action()
-*do_action()
-*do_action_ref_array()
-*did_action()
-*remove_action()
-*remove_all_actions()
-*doing_action()
+* has_action()
+* add_action()
+* do_action()
+* do_action_ref_array()
+* did_action()
+* remove_action()
+* remove_all_actions()
+* doing_action()
 
 
 
